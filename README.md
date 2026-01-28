@@ -1,34 +1,39 @@
-<!-- =========================================
+<!-- =====================================
 🚀 Prottoy Biswas | MERN Stack Developer & UI/UX Designer
 GitHub: prottoybiswas01
-========================================= -->
+===================================== -->
 
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:0ea5e9,100:22c55e&text=Prottoy%20Biswas&fontSize=50&fontAlign=50&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=65&animation=fadeIn" />
+<!-- Hero Section -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=260&color=0:0ea5e9,100:9333ea&text=Prottoy%20Biswas&fontSize=50&fontAlign=50&fontAlignY=40&desc=MERN%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=65&animation=fadeIn" />
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey!+I'm+Prottoy+Biswas;MERN+Stack+Developer💻;UI%2FUX+Designer🎨;Building+Modern+Web+Apps🚀&center=true&size=28&color=38BDF8&font=Fira+Code">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Prottoy+Biswas;MERN+Stack+Developer💻;UI%2FUX+Designer🎨;Building+Modern+Web+Experiences🚀&center=true&size=28&color=38BDF8&font=Fira+Code">
 </h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prottoybiswas01&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=prottoybiswas01&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/prottoybiswas01?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20%26%20UI%2FUX-9333ea?style=for-the-badge" />
 </p>
 
 ---
 
-# 🧑‍🚀 Who Am I?
+# 👨‍💻 About Me
 
-💻 **MERN Stack Developer & UI/UX Designer**  
-🎨 Passionate about **clean UI, user experience & modern web apps**  
-🚀 Love building **scalable products with beautiful design systems**  
-📚 Currently learning **advanced React, backend architecture & design systems**
+- 💻 MERN Stack Developer (React, Node, Express, MongoDB)  
+- 🎨 UI/UX Designer focused on clean interfaces & user experience  
+- 🚀 Building scalable, responsive, real-world web applications  
+- 📚 Learning advanced React patterns, backend architecture, and design systems  
 
 ---
 
-# 🧩 My Skill Set
+# 🛠 Tech Stack
 
-## 💻 Development
+## ⚙️ Development
 <p>
 <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -44,7 +49,7 @@ GitHub: prottoybiswas01
 <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
 </p>
 
-## ⚙️ Styling & Tools
+## 🎯 Styling & Tools
 <p>
 <img src="https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
 <img src="https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=8511FA"/>
@@ -54,31 +59,31 @@ GitHub: prottoybiswas01
 
 ---
 
-# 🚀 My Projects
+# 🚀 Featured Projects
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🛒 **E-Commerce Platform** | MERN | Cart, Auth, Admin Dashboard, Payment |
-| 📚 **Tuition Platform UI** | React + Tailwind | Course listing, filters, guardian UX |
-| 📊 **Admin Dashboard** | React | Charts, Analytics, Responsive UI |
-| 🔐 **Auth System** | Firebase / JWT | Secure login & role-based system |
-
----
-
-# 📊 GitHub Performance
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prottoybiswas01&show_icons=true&theme=react&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prottoybiswas01&theme=react&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prottoybiswas01&layout=compact&theme=react&hide_border=true" height="130"/>
-</p>
+| Project | Stack | Features |
+|---------|--------|-----------|
+| 🛒 **E-Commerce Platform** | MERN | Cart, Auth, Admin Panel, Payment |
+| 📚 **Tuition Platform UI** | React + Tailwind | Courses, Filters, Guardian UX |
+| 📊 **Admin Dashboard** | React | Charts, Analytics, Responsive Layout |
+| 🔐 **Auth System** | Firebase / JWT | Secure login & role-based access |
 
 ---
 
-# 🌍 Connect With Me
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=prottoybiswas01&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prottoybiswas01&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prottoybiswas01&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://github.com/prottoybiswas01">
@@ -94,4 +99,4 @@ GitHub: prottoybiswas01
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:22c55e,100:0ea5e9&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=120&color=0:9333ea,100:0ea5e9&section=footer" />
