@@ -29,7 +29,6 @@ GitHub: prottoybiswas01
 - 🚀 Building scalable, responsive, real-world web applications  
 - 📚 Learning advanced React patterns, backend architecture, and design systems  
 
----
 
 # 🛠 Tech Stack
 
